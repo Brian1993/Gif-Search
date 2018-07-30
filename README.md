@@ -4,6 +4,6 @@
 use axios(Like fetch api but well supported) to get gifs from "GIPHY API "
 
 ##  User story 
-- user can search gifs by type on the search iuput and it will auto search without press the send button 
+- user can search gifs by type on the search input and it will auto search without press the send button 
 
 <img src="gifsearch.gif" width="640px" >
